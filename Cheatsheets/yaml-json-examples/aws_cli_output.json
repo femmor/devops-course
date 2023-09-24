@@ -1,0 +1,15 @@
+{
+    "Buckets": [
+      {
+        "Name": "example-bucket",
+        "CreationDate": "2020-05-12T03:20:26.000Z",
+        "Owner": {
+          "DisplayName": "example-owner",
+          "ID": "0123456789abcdef0123456789abcdef0123456789abcd"
+        },
+        "VersioningConfiguration": {
+          "Status": "Enabled"
+        }
+      }
+    ]
+  }

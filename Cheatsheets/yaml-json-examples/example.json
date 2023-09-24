@@ -1,0 +1,19 @@
+{
+    "data": [
+        {
+            "string": "This is a string",
+            "number": 0,
+            "list": [1, 2, 3],
+            "map": {
+                "key1": "value1",
+                "key2": "value2",
+                "nestedMap": {
+                    "key3": ["value3", "value4"],
+                    "key4": "value4"
+                }
+            },
+            "boolean": true,
+            "nullValue": null
+        }
+    ]
+}

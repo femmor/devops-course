@@ -1,0 +1,12 @@
+# Ignore Terraform working files
+.terraform/
+*.tfplan
+
+# Ignore backup files
+*.tfstate.backup
+
+# Ignore cache files
+.terraform.d/
+
+# Ignore lock files (because this is a lab, usually its okay to have them in the repo)
+*.lock.hcl
