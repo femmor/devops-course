@@ -1,4 +1,4 @@
-FROM ubuntu:20.04
+FROM ubuntu:22.04
 RUN apt update
 RUN apt install python3-pip -y
 WORKDIR /app

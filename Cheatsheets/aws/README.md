@@ -15,7 +15,7 @@ There are three main ways to access AWS services:
 For most of the course using free tier AWS Lightsail is sufficient.
 
 https://lightsail.aws.amazon.com/
-- Options: Linux, OS Only, Ubuntu 20.04 LTS
+- Options: Linux, OS Only, Ubuntu 22.04 LTS
 - Go with a Free tier instance 
 
 Note: There may be fees for storage and bandwidth. The fees should be minimal. Make sure to stop/destroy instances that you are no longer using.  In later chapters you can use Terraform to bring up and down instances as they are needed.
